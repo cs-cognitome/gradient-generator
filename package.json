@@ -1,0 +1,22 @@
+{
+  "name": "gradient-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "browserify main.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-cognitome/gradient-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-cognitome/gradient-generator/issues"
+  },
+  "homepage": "https://github.com/cs-cognitome/gradient-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
